@@ -5,3 +5,4 @@ held in Las Vegas.
 ***Note: Due to privacy reasons at the U of C, the dataset has not been shared.***
 
 All Python and bash scripts, along with the graphs analyzing the datasets in the thesis are shared here.
+## Please download the '.eps' files in the diagram folder, inorder to view them.
