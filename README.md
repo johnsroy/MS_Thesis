@@ -1,6 +1,6 @@
 # MS_Thesis
 A data science project on network security which deals with network logs of a LMS system named D2L used at U of C.
-The full thesis along with my published paper is also shared. The paper featured in the ISCA CATA 2018 conference
+The full thesis along with my published paper is also shared. The paper featured in the ISCA CATA March 2018 conference
 held in Las Vegas. 
 ***Note: Due to privacy reasons at the U of C, the dataset has not been shared.***
 
